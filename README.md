@@ -1,11 +1,8 @@
 <a href="https://github.com/gauravprwl14"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=gauravprwl14&style=flat-square" width="125"/></a>
 
-<h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/gaurav-porwal-811488118/">Gaurav </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />  - FullStack App Developer, Using AI to automate Daily work, Passionate about Building Great User Experiences. </h1>
+<h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/gaurav-porwal-811488118/">Gaurav </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />  - Engineering who architects fintech platforms, write about what I learn (system design), and builds AI-driven products. </h1>
 
 
-
-
-## ⚡ Technologies
 
 ## 🛠️ Tech Stack & Tools
 
